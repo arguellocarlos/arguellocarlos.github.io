@@ -27,7 +27,7 @@ url: "https://arguellocarlos.github.io" # the base hostname & protocol for your 
 github_username:  arguellocarlos
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
